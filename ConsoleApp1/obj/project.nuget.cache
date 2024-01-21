@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/paz5fkl5eziDRnq8UhcYM5ywYRv4n2AedqBx6m70EnKmvLtT4Jav37TT6E+xAXS0bkGFWveSLnZC9Yn68uxOg==",
+  "success": true,
+  "projectFilePath": "/Users/ahmetozenir/dotnet/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetozenir/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
